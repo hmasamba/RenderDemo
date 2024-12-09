@@ -1,5 +1,5 @@
 {
-  "name": "gridfs-bucket-demo",
+  "name": "render-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.1",
-    "mongodb": "^6.11.0",
-    "mongoose": "^8.8.2",
-    "multer": "^1.4.5-lts.1"
+    "express": "^4.21.1"
   }
 }
